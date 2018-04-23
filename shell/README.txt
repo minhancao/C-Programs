@@ -1,0 +1,2 @@
+-This is a C program that serves as a shell interface that accepts user commands and then executes each command in a separate process.
+-This program should be ran on Linux through the terminal as it uses Linux calls like fork() and execvp()
