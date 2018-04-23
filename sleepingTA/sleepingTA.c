@@ -99,7 +99,7 @@ void *studFunc(int i) {
 }
 
 int main() {
-	printf("CS149 SleepingTA from Minh An Cao");
+	printf("SleepingTA C Program\n");
 
 	//mutex and semaphores initialization
 	pthread_mutex_init(&mutex_lock, NULL);
