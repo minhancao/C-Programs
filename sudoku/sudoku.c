@@ -95,7 +95,7 @@ void *checkSubGrid(void *data)
 
 int main(void)
 {
-	printf("CS149 Sudoku from Minh An Cao\n");
+	printf("Sudoku Checker\n");
 	pthread_t tidArray[27];
 	int threadCounter = 0;//to keep track of the threads
 
