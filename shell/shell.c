@@ -7,7 +7,7 @@
 int main(void) {
 	char *args[MAXLINE / 2 + 1]; //command line with max 40 arguments
 	int should_run = 1; //flag to determine when to exit program
-	printf("CS149 Shell from Minh An Cao\n");
+	printf("Shell Interface\n");
 	while (should_run == 1) {
 		for (int j = 0; j < MAXLINE / 2; j++) //sets it back to beginning normal
 				{
